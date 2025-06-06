@@ -26,14 +26,14 @@ const Header = () => {
             whileInView={{y: 0, opacity: 1}}
             transition={{duration: 0.8, delay: 0.5}}
             className='text-3xl sm:text-6xl lg:text-[66px] font-Ovo'>
-                Frontend web developer
+                Full Stack web developer
             </motion.h1>
             <motion.p 
             initial={{opacity: 0}}
             whileInView={{opacity: 1}}
             transition={{duration: 0.6, delay: 0.7}}
             className='max-w-2xl mx-auto font-Ovo'>
-                I am a frontend web developer with a passion for creating beautiful and functional websites. I have experience in HTML, CSS, JavaScript, and React, and I am always eager to learn new technologies and improve my skills.
+                I am a full-stack web developer with hands-on experience in building dynamic and scalable web applications. I specialize in JavaScript technologies like React, Node.js, and Next.js, and have worked on projects using MongoDB, TailwindCSS, and Express.js.
             </motion.p>
 
             <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
