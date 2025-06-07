@@ -28,7 +28,7 @@ const Services = () => {
             whileInView={{opacity: 1}}
             transition={{delay: 0.7, duration: 0.5}}
             className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo'>
-                I am a frontend web developer with a passion for creating beautiful and functional websites. I have experience in HTML, CSS, JavaScript, and React, and I am always eager to learn new technologies and improve my skills. Here are some of the services I offer:
+                I am a Full Stack web developer with a passion for creating beautiful and functional websites. I am always eager to learn new technologies and improve my skills. Here are some of the services I offer:
             </motion.p>
 
             <motion.div 

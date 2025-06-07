@@ -78,38 +78,38 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Frontend project',
-        description: 'Web Design',
+        title: 'Portfolio Website',
+        description: 'Personal Full Stack Project',
         bgImage: '/work-1.png',
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
+        title: 'Blogger',
+        description: 'Full Stack Blogging Platform',
         bgImage: '/work-2.png',
     },
     {
-        title: 'Photography site',
-        description: 'Web Design',
+        title: 'Password Generator',
+        description: 'React Utility Tool',
         bgImage: '/work-3.png',
     },
     {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
+        title: 'Currency Converter',
+        description: 'React & API Integration',
         bgImage: '/work-4.png',
     },
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: '' },
-    { icon: assets.mobile_icon, title: 'Mobile app', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
-    { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience...', link: '' },
-    { icon: assets.graphics_icon, title: 'Graphics design', description: 'Creative design solutions to enhance visual communication...', link: '' },
+    { icon: assets.web_icon, title: 'Full Stack Web Development', description: 'Building complete web apps from front-end to back-end using Next.js, React.js, Node.js, Express.js, TailwindCSS, MongoDB with clean and scalable code.' },
+    { icon: assets.mobile_icon, title: 'Custom Web Tools', description: 'Developing personalized tools like password generator, currency converter, and automation scripts (e.g., Google Apps Script for email workflows).' },
+    { icon: assets.ui_icon, title: 'Responsive UI/UX Design', description: 'Creating mobile-friendly, fast-loading, and visually appealing interfaces using TailwindCSS and modern design practices.' },
+    { icon: assets.graphics_icon, title: 'API Integration & Backend', description: 'Creating and consuming REST APIs, handling database interactions, and managing user authentication and server-side logic.' },
 ]
 
 export const infoList = [
     { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Technical Skills', description: 'Next.js, React.js, Node.js, Express.js, JavaScript, TailwindCSS, MongoDB.' },
     { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'B.Tech in Computer Science' },
-    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects' }
+    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Showcasing expertise through 4 practical builds' }
 ];
 
 export const toolsData = [

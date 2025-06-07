@@ -28,7 +28,7 @@ const Work = ({isDarkMode}) => {
             whileInView={{opacity: 1}}
             transition={{delay: 0.7, duration: 0.5}}
             className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo'>
-                I am a frontend web developer with a passion for creating beautiful and functional websites. I have experience in HTML, CSS, JavaScript, and React, and I am always eager to learn new technologies and improve my skills. Here are some of the services I offer:
+                Welcome to my portfolio! Here, you can explore some of my latest projects that showcase my skills and creativity. Each project is a testament to my dedication to delivering high-quality work. Feel free to click on any project to learn more about it.
             </motion.p>
 
             <motion.div 
