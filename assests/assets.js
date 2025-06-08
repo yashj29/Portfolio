@@ -81,21 +81,25 @@ export const workData = [
         title: 'Portfolio Website',
         description: 'Personal Full Stack Project',
         bgImage: '/work-1.png',
+        link: 'https://portfolio-yashj29s-projects.vercel.app/',
     },
     {
         title: 'Blogger',
         description: 'Full Stack Blogging Platform',
         bgImage: '/work-2.png',
+        link: 'https://blogs-yashj29s-projects.vercel.app/',
     },
     {
         title: 'Password Generator',
         description: 'React Utility Tool',
         bgImage: '/work-3.png',
+        link: 'https://passwordgenerator-yashj29s-projects.vercel.app/',
     },
     {
         title: 'Currency Converter',
         description: 'React & API Integration',
         bgImage: '/work-4.png',
+        link: 'https://currencyconverter-yashj29s-projects.vercel.app/',
     },
 ]
 
